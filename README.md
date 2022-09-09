@@ -11,4 +11,6 @@ Project developed at Digital Innovation One's Bootcamp Database Experience with 
 * Mechanics have a code, name, address and specialt e
 * Each SO has: number, date of issue, a value, status and a date for completion of the works.
 
+![Oficina](https://user-images.githubusercontent.com/95108889/189446045-54a8e593-a5a7-405d-a966-ad062b59f162.jpg)
+
 [LICENSE](./LICENSE)
